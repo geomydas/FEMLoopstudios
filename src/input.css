@@ -1,0 +1,10 @@
+@import "tailwindcss";  
+@theme {
+
+--color-white: hsl(0, 0%, 100%);
+--color-black: hsl(0, 0%, 0%);
+--color-gray: hsl(0, 0%, 55%);
+--color-darkrgray: hsl(0, 0%, 41%);
+--font-family-alata: Alata, sans-serif;
+--font-family-josefin: "Josefin Sans", sans-serif;
+}
